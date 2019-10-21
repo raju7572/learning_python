@@ -1,0 +1,6 @@
+e=math.exp(1.0)
+height = radius*math.sin(radians)
+def area(radius):
+    temp=math.pi*radius**2
+    return temp
+def distance(x1,y1,x2,y2):
